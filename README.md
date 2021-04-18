@@ -22,6 +22,9 @@
 #### 기타
 - Git, Gitlab
 - Shellscript
+- Docker
+- aws: CloudFront
+- azure: CDN
 
 ### 개발 경력사항
 - 작성중
