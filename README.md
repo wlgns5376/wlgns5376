@@ -7,6 +7,7 @@
 
 #### Back-end
 - PHP: 상
+  - Laravel: 하
 - MySQL: 상
 - Node.js: 하
 
