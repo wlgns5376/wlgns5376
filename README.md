@@ -17,7 +17,7 @@
 - CSS3: 상
 - Sass, Scss: 중
 - Vue.js: 중
-- React.js: 하
+- React.js: 중
 
 #### 기타
 - Git, Gitlab
