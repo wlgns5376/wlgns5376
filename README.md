@@ -19,7 +19,6 @@
 - Docker
 - Kubernetes
 
-
 ## 경력사항
 
 ### 예스콜닷컴(주) 15년 근무
@@ -45,3 +44,7 @@
 ### ETC
 - [VScode Laravel devcontainer](https://github.com/wlgns5376/laravel-example-app)
 - [Dockerfile for Laravel](https://github.com/wlgns5376/docker-laravel-phpfpm)
+
+## 기타정보
+- [Tech Blog](https://velog.io/@wlgns5376)
+- [Linkedin](https://www.linkedin.com/in/지훈-강-576a60218/)
