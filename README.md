@@ -34,6 +34,10 @@
 ### Node.js & Nest.js
 - [Nest.js Sample(Review) API](https://github.com/wlgns5376/nest-sample-app)
 
+### Javascript
+- [Web Text Editor](https://github.com/wlgns5376/editor)
+- [Resizer jquery plugin](https://github.com/wlgns5376/resizable)
+
 ### React & Electon
 - [고객 이용시간 관리 프로그램](https://github.com/wlgns5376/usage-time-manager)
 
