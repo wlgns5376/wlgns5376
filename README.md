@@ -1,33 +1,45 @@
-## Introduction
+## Tech stack
+### Senior
+- PHP
+- MySql
+- Javascript
+- Html & CSS
+- Git
 
-- 14년차 Full Stack Web programer.
-- 현재 [dubuplus](https://kr.dubuplus.com)라는 반응형 홈페이지 빌더 개발
+### Junior
+- Laravel
+- Vue.js
+- Node.js
+- AWS (CDN)
+- Azure (CDN)
 
-### 보유기술
-
-#### Back-end
-- PHP: 상
-  - Laravel: 하
-- MySQL: 상
-- Node.js: 하
-
-#### Front-end
-- JavaScript: 상
-- Html5: 상
-- CSS3: 상
-- Sass, Scss: 중
-- Vue.js: 중
-- React.js: 중
-
-#### 기타
-- Git, Gitlab
-- Shellscript
+### Beginner
+- Nest.js
+- TypeScript
 - Docker
-- aws: CloudFront
-- azure: CDN
+- Kubernetes
 
-### 개발 경력사항
-- 작성중
 
-### 기술블로그
-- https://velog.io/@wlgns5376
+## 경력사항
+
+### 예스콜닷컴(주) 15년 근무
+- 반응형 웹사이트 빌더(dubuplus.com) 개발
+- Tech stack: PHP, Javascript, Bootstrap, jQuery, Vue.js, MySQL, Apache, Git, GitLab, Laravel
+
+## GitHub 정리
+### PHP & Laravel
+
+- [Laravel AMQP 패키지](https://github.com/wlgns5376/laravel-amqp)
+- [Laravel RabbitMQ 연동 샘플](https://github.com/wlgns5376/laravel-rabbitmq-example)
+- [Laravel artisan customize](https://github.com/wlgns5376/laravel6-artisan-customize)
+
+### Node.js & Nest.js
+
+- [Nest.js Sample(Review) API](https://github.com/wlgns5376/nest-sample-app)
+
+### React & Electon
+
+
+### ETC
+- [VScode Laravel devcontainer](https://github.com/wlgns5376/laravel-example-app)
+- [Dockerfile for Laravel](https://github.com/wlgns5376/docker-laravel-phpfpm)
